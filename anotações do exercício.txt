@@ -1,0 +1,46 @@
+>>>Depois de terminar o projeto sugerido, pode entrar no repositorio abaixo para fazer pelo menos mais um exercício:
+
+• Popular open data repositories:
+— UC Irvine Machine Learning Repository (http://archive.ics.uci.edu/ml/)
+— Kaggle datasets (https://www.kaggle.com/datasets)
+— Amazon’s AWS datasets (http://aws.amazon.com/fr/datasets/)
+
+• Meta portals (they list open data repositories):
+— http://dataportals.org/ 
+— http://opendatamonitor.eu/
+— http://quandl.com/
+
+• Other pages listing many popular open data repositories:
+— Wikipedia’s list of Machine Learning datasets (https://goo.gl/SJHN2k)
+— Quora.com question (http://goo.gl/zDR78y)
+— Datasets subreddit (https://www.reddit.com/r/datasets)
+
+
+>>>Machine Learning Project Checklist
+
+This checklist can guide you through your Machine Learning projects. There are
+eight main steps:
+1. Frame the problem and look at the big picture.
+2. Get the data.
+3. Explore the data to gain insights.
+4. Prepare the data to better expose the underlying data patterns to Machine Learn‐
+ing algorithms.
+5. Explore many different models and short-list the best ones.
+6. Fine-tune your models and combine them into a great solution.
+7. Present your solution.
+8. Launch, monitor, and maintain your system.
+Obviously, you should feel free to adapt this checklist to your needs.
+
+O detalhamento de cada uma dessas etapas está no livro >>Hands-On Machine Learning with Scikit-Learn and TensorFlow<<, apêndice B, página 497
+
+
+>>> Root Mean Square Error (RMSE)
+é uma forma de medir a performance. este tópico está na p.37 e é preciso entender melhor como isso funciona...
+VOLTE A ESSE TÓPICO NO FINAL DO CAPÍTULO E ENTENDA DIREITO O CONCEITO
+
+>>> Create the workspace
+neste tópico eles ensinam a fazer um espaço virtual para instalação de bibliotecas separadas no python
+também aqui eu aprendi a usar pip3 ao invés de pip para instalar as bibliotecas no python3
+
+>>> Divisão do grupo de teste e treino
+
